@@ -52,5 +52,17 @@
     "file": "2018-07-03-16-07-31.zip",
     "index": 9,
     "success": true
+  },
+  {
+    "time": 1530751684594,
+    "file": "2018-07-04-20-48-04.zip",
+    "index": 10,
+    "success": false
+  },
+  {
+    "time": 1530761073855,
+    "file": "2018-07-04-23-24-33.zip",
+    "index": 11,
+    "success": true
   }
 ]
