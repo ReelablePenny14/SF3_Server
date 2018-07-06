@@ -1,62 +1,27 @@
-[21:23:11] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[21:24:30] [Server thread/INFO]: Loading properties
-[21:24:30] [Server thread/INFO]: Default game type: SURVIVAL
-[21:24:30] [Server thread/INFO]: Generating keypair
-[21:24:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:24:30] [Server thread/INFO]: Using default channel type
-[21:24:46] [Server thread/INFO]: Preparing level "world"
-[21:24:48] [Server thread/INFO]: Preparing start region for level 0
-[21:24:51] [Server thread/INFO]: Preparing spawn area: 61%
-[21:24:51] [Server thread/INFO]: Done (5.547s)! For help, type "help" or "?"
-[21:24:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4936ms behind, skipping 98 tick(s)
-[21:26:08] [User Authenticator #1/INFO]: UUID of player metalmatt is 57e62038-971f-4ef0-9c93-a64bc1c1550b
-[21:26:09] [Server thread/INFO]: metalmatt[/127.0.0.1:63847] logged in with entity id 4166 at (86.25441704310037, 71.0, 226.68337541839657)
-[21:26:09] [Server thread/INFO]: metalmatt joined the game
-[21:26:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2319ms behind, skipping 46 tick(s)
-[21:27:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10087ms behind, skipping 201 tick(s)
-[21:27:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6386ms behind, skipping 127 tick(s)
-[21:27:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7235ms behind, skipping 144 tick(s)
-[21:28:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5626ms behind, skipping 112 tick(s)
-[21:28:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5542ms behind, skipping 110 tick(s)
-[21:28:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3694ms behind, skipping 73 tick(s)
-[21:29:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4101ms behind, skipping 82 tick(s)
-[21:29:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3721ms behind, skipping 74 tick(s)
-[21:29:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3132ms behind, skipping 62 tick(s)
-[21:29:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2926ms behind, skipping 58 tick(s)
-[21:30:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3407ms behind, skipping 68 tick(s)
-[21:30:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2308ms behind, skipping 46 tick(s)
-[21:30:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2991ms behind, skipping 59 tick(s)
-[21:30:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3418ms behind, skipping 68 tick(s)
-[21:31:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2739ms behind, skipping 54 tick(s)
-[21:31:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4637ms behind, skipping 92 tick(s)
-[21:31:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3479ms behind, skipping 69 tick(s)
-[21:32:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3769ms behind, skipping 75 tick(s)
-[21:32:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3404ms behind, skipping 68 tick(s)
-[21:32:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3439ms behind, skipping 68 tick(s)
-[21:32:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2950ms behind, skipping 59 tick(s)
-[21:33:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5560ms behind, skipping 111 tick(s)
-[21:33:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3897ms behind, skipping 77 tick(s)
-[21:33:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2385ms behind, skipping 47 tick(s)
-[21:51:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4187ms behind, skipping 83 tick(s)
-[21:55:33] [Server thread/WARN]: metalmatt moved wrongly!
-[21:55:34] [Server thread/WARN]: metalmatt moved wrongly!
-[22:00:07] [Server thread/WARN]: metalmatt moved wrongly!
-[22:02:41] [Server thread/WARN]: metalmatt moved wrongly!
-[22:03:59] [Server thread/WARN]: metalmatt moved wrongly!
-[22:58:32] [Server thread/INFO]: metalmatt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:58:32] [Server thread/INFO]: metalmatt left the game
-[22:58:36] [Server thread/INFO]: Stopping the server
-[22:58:50] [Server thread/INFO]: Stopping server
-[22:58:51] [Server thread/INFO]: Saving players
-[22:58:51] [Server thread/INFO]: Saving worlds
-[22:58:51] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:58:52] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[22:58:52] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[22:58:52] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[22:58:52] [Server thread/INFO]: Saving chunks for level 'world'/fakeend
-[22:58:52] [Server thread/INFO]: Saving chunks for level 'world'/fakenether
-[22:58:52] [Server thread/INFO]: Saving chunks for level 'world'/fakeoverworld
-[22:58:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:00:03] [Server Shutdown Thread/INFO]: Stopping server
-[23:00:03] [Server Shutdown Thread/INFO]: Saving players
-[23:00:03] [Server Shutdown Thread/INFO]: Saving worlds
+[02:33:24] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[02:35:45] [Server thread/INFO]: Loading properties
+[02:35:45] [Server thread/INFO]: Default game type: SURVIVAL
+[02:35:45] [Server thread/INFO]: Generating keypair
+[02:35:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:35:46] [Server thread/INFO]: Using default channel type
+[02:36:34] [Server thread/INFO]: Preparing level "world"
+[02:36:41] [Server thread/INFO]: Preparing start region for level 0
+[02:36:42] [Server thread/INFO]: Done (8.156s)! For help, type "help" or "?"
+[02:36:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8073ms behind, skipping 161 tick(s)
+[02:37:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3149ms behind, skipping 62 tick(s)
+[02:37:28] [User Authenticator #1/INFO]: UUID of player ReelablePenny14 is dfea9c0c-337a-4402-9e4a-2b1dc441cea4
+[02:37:33] [Server thread/INFO]: ReelablePenny14[/127.0.0.1:55367] logged in with entity id 2085 at (88.30000001192093, 60.0, 215.42970271609394)
+[02:37:33] [Server thread/INFO]: ReelablePenny14 joined the game
+[02:37:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3251ms behind, skipping 65 tick(s)
+[02:37:53] [Server thread/INFO]: ReelablePenny14 fell out of the world
+[02:37:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2008ms behind, skipping 40 tick(s)
+[02:38:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2638ms behind, skipping 52 tick(s)
+[02:40:42] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.346811082247882,0.0,-11.275407728998005
+[02:40:44] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.2658556390456681,0.0,-10.59765444768442
+[03:04:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2304ms behind, skipping 46 tick(s)
+[03:51:14] [Server thread/WARN]: ReelablePenny14 moved too quickly! 5.050617673034395,0.0,-10.010664802031194
+[03:51:28] [Server thread/WARN]: ReelablePenny14 moved too quickly! -0.48478721905549094,0.0,-11.34199876822504
+[03:58:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2162ms behind, skipping 43 tick(s)
+[03:59:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2851ms behind, skipping 57 tick(s)
+[04:06:29] [Server thread/INFO]: ReelablePenny14 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:06:29] [Server thread/INFO]: ReelablePenny14 left the game
