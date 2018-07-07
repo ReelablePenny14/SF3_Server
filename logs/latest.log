@@ -1,17 +1,269 @@
-[00:01:42] [Server thread/INFO]: Server Backup started!
-[00:01:59] [Thread-135/INFO]: Server backup done in 00:00:17! (39.9MB | 175.7MB)
-[00:27:51] [Server thread/INFO]: Stopping the server
-[00:27:52] [Server thread/INFO]: Stopping server
-[00:27:52] [Server thread/INFO]: Saving players
-[00:27:52] [Server thread/INFO]: Saving worlds
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/fakeend
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/fakenether
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/fakeoverworld
-[00:27:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:27:54] [Server Shutdown Thread/INFO]: Stopping server
-[00:27:54] [Server Shutdown Thread/INFO]: Saving players
-[00:27:54] [Server Shutdown Thread/INFO]: Saving worlds
+[05:04:20] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[05:07:51] [Server thread/INFO]: Loading properties
+[05:07:51] [Server thread/INFO]: Default game type: SURVIVAL
+[05:07:51] [Server thread/INFO]: Generating keypair
+[05:07:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:07:52] [Server thread/INFO]: Using default channel type
+[05:09:11] [Server thread/INFO]: Preparing level "world"
+[05:09:24] [Server thread/INFO]: Preparing start region for level 0
+[05:09:25] [Server thread/INFO]: Preparing spawn area: 50%
+[05:09:25] [Server thread/INFO]: Done (14.836s)! For help, type "help" or "?"
+[05:09:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20170ms behind, skipping 403 tick(s)
+[05:10:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6562ms behind, skipping 131 tick(s)
+[05:10:17] [User Authenticator #1/INFO]: UUID of player ReelablePenny14 is dfea9c0c-337a-4402-9e4a-2b1dc441cea4
+[05:10:20] [Server thread/INFO]: ReelablePenny14[/127.0.0.1:60676] logged in with entity id 460 at (107.26738230447293, 58.0, 264.5640337874507)
+[05:10:20] [Server thread/INFO]: ReelablePenny14 joined the game
+[05:10:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12444ms behind, skipping 248 tick(s)
+[05:10:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2492ms behind, skipping 49 tick(s)
+[05:10:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4336ms behind, skipping 86 tick(s)
+[05:11:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9122ms behind, skipping 182 tick(s)
+[05:11:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2408ms behind, skipping 48 tick(s)
+[05:11:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8771ms behind, skipping 175 tick(s)
+[05:12:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6566ms behind, skipping 131 tick(s)
+[05:12:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4674ms behind, skipping 93 tick(s)
+[05:12:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2290ms behind, skipping 45 tick(s)
+[05:14:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2728ms behind, skipping 54 tick(s)
+[05:15:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2063ms behind, skipping 41 tick(s)
+[05:15:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2243ms behind, skipping 44 tick(s)
+[05:15:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2736ms behind, skipping 54 tick(s)
+[05:23:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2151ms behind, skipping 43 tick(s)
+[05:25:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2767ms behind, skipping 55 tick(s)
+[05:26:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6268ms behind, skipping 125 tick(s)
+[05:29:20] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[05:29:20] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[05:34:44] [Server thread/WARN]: ReelablePenny14 moved too quickly! -10.065318784961306,2.625000104300753,-4.455085855862771
+[05:38:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2017ms behind, skipping 40 tick(s)
+[05:41:29] [Server thread/WARN]: ReelablePenny14 moved too quickly! 8.81975757953513,0.0,-5.023682604328698
+[05:43:00] [Server thread/WARN]: ReelablePenny14 moved too quickly! 8.642907240970487,0.0,-5.950472131713337
+[05:54:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2119ms behind, skipping 42 tick(s)
+[05:56:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2162ms behind, skipping 43 tick(s)
+[05:57:16] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.AbstractMethodError
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_151]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:387) [ld.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.AbstractMethodError
+	at com.rwtema.extrautils2.crafting.Radar$PacketPing.lambda$doStuffServer$1(Radar.java:186) ~[Radar$PacketPing.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:45) ~[h.class:?]
+	... 5 more
+[06:09:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2369ms behind, skipping 47 tick(s)
+[06:48:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5917ms behind, skipping 118 tick(s)
+[06:48:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[07:09:11] [Server thread/INFO]: Server Backup started!
+[07:09:17] [Thread-47/INFO]: Server backup done in 00:00:05! (39.9MB | 212.8MB)
+[07:17:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s)
+[07:24:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2126ms behind, skipping 42 tick(s)
+[07:24:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2157ms behind, skipping 43 tick(s)
+[07:27:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5189ms behind, skipping 103 tick(s)
+[07:27:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2638ms behind, skipping 52 tick(s)
+[07:28:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2644ms behind, skipping 52 tick(s)
+[07:28:18] [Server thread/WARN]: ReelablePenny14 moved too quickly! -4.220330320550417,0.0,24.623556147436673
+[07:28:19] [Server thread/WARN]: ReelablePenny14 moved too quickly! -3.0332616476840997,0.0,17.723119388746
+[07:28:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4905ms behind, skipping 98 tick(s)
+[07:28:33] [Server thread/WARN]: ReelablePenny14 moved too quickly! 15.907568121410804,0.0,-5.935875306980364
+[07:29:59] [Server thread/WARN]: ReelablePenny14 moved too quickly! 7.586026922188125,0.0,16.06755911955389
+[07:30:28] [Server thread/WARN]: ReelablePenny14 moved too quickly! -9.477528202951646,0.0,-7.229637414744104
+[07:30:29] [Server thread/WARN]: ReelablePenny14 moved too quickly! -16.94450656046402,0.0,-10.857881745106795
+[07:30:29] [Server thread/WARN]: ReelablePenny14 moved too quickly! -10.455315030897367,0.0,-6.720912897874712
+[07:30:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3083ms behind, skipping 61 tick(s)
+[07:30:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! -14.967010620821156,0.0,-9.624456299571477
+[07:30:33] [Server thread/WARN]: ReelablePenny14 moved too quickly! -14.530731950425285,0.0,-10.485845854192092
+[07:30:35] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.340101882278038,0.0,-17.665296711983373
+[07:31:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
+[07:32:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5792ms behind, skipping 115 tick(s)
+[07:40:07] [Server thread/INFO]: ReelablePenny14 has just earned the achievement [Exotic Miner!]
+[07:53:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2990ms behind, skipping 59 tick(s)
+[07:53:45] [Server thread/WARN]: ReelablePenny14 moved too quickly! 9.89559311067535,0.0,8.855809185262263
+[07:53:51] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.808998585899417,0.0,-10.476685770269732
+[07:54:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5592ms behind, skipping 111 tick(s)
+[07:54:12] [Server thread/WARN]: ReelablePenny14 moved too quickly! -8.009502804529006,0.0,-7.799919802550136
+[07:54:13] [Server thread/WARN]: ReelablePenny14 moved too quickly! -11.586645011544874,0.0,-4.00813074857723
+[07:54:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2281ms behind, skipping 45 tick(s)
+[07:54:22] [Server thread/WARN]: ReelablePenny14 moved too quickly! -5.401633762701124,0.0,-11.120018374792835
+[07:54:24] [Server thread/WARN]: ReelablePenny14 moved too quickly! -6.009789586438558,0.0,-8.670277993741252
+[07:54:32] [Server thread/WARN]: ReelablePenny14 moved too quickly! -9.710628830352988,0.0,-5.867824757067751
+[07:54:35] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.489874274762343,0.0,-12.688930809055705
+[07:54:36] [Server thread/WARN]: ReelablePenny14 moved too quickly! -7.295978418360193,0.0,-10.296314565553644
+[07:54:37] [Server thread/WARN]: ReelablePenny14 moved too quickly! -8.778556964576609,0.0,-5.215684092603055
+[07:54:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3244ms behind, skipping 64 tick(s)
+[07:56:10] [Server thread/WARN]: ReelablePenny14 moved too quickly! 6.970437969777237,2.564999967813492,-12.028671827816538
+[07:56:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4364ms behind, skipping 87 tick(s)
+[07:56:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3268ms behind, skipping 65 tick(s)
+[07:56:34] [Server thread/WARN]: ReelablePenny14 moved too quickly! 8.95633594566499,0.0,9.449159551057278
+[07:56:56] [Server thread/WARN]: ReelablePenny14 moved too quickly! 5.976318620114512,0.0,-8.046517214778646
+[07:58:12] [Server thread/WARN]: ReelablePenny14 moved too quickly! 2.603728061299421,0.0,-12.767201378966092
+[07:58:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2112ms behind, skipping 42 tick(s)
+[07:58:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! 5.102958596469762,0.0,-9.343856685170522
+[07:58:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! 4.812569558338055,0.0,-8.91578630699928
+[07:58:32] [Server thread/WARN]: ReelablePenny14 moved too quickly! 8.173076208395514,0.0,-9.9136805896037
+[07:58:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9209ms behind, skipping 184 tick(s)
+[07:59:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3667ms behind, skipping 73 tick(s)
+[07:59:24] [Server thread/WARN]: ReelablePenny14 moved too quickly! 8.006796325173354,2.029499977827072,-6.005905513612561
+[07:59:35] [Server thread/WARN]: ReelablePenny14 moved too quickly! 10.532644371677407,0.0,-7.090600638359092
+[07:59:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9223ms behind, skipping 184 tick(s)
+[07:59:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5087ms behind, skipping 101 tick(s)
+[08:00:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2068ms behind, skipping 41 tick(s)
+[08:00:18] [Server thread/WARN]: ReelablePenny14 moved too quickly! -8.771328441648848,0.0,-5.241428359888232
+[08:01:01] [Server thread/WARN]: ReelablePenny14 moved too quickly! -10.321535283282174,0.0,-1.5343135338166576
+[08:01:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2213ms behind, skipping 44 tick(s)
+[08:01:13] [Server thread/WARN]: ReelablePenny14 moved too quickly! -10.418789611424245,0.0,-0.5458907224897303
+[08:01:15] [Server thread/WARN]: ReelablePenny14 moved too quickly! -10.68877313710459,0.0,-0.43474335819155385
+[08:01:22] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.5512608792685114,-3.8474999517202377,9.622268745102701
+[08:01:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2313ms behind, skipping 46 tick(s)
+[08:01:40] [Server thread/WARN]: ReelablePenny14 moved too quickly! -6.218487586734227,0.0,12.628707140086817
+[08:01:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2841ms behind, skipping 56 tick(s)
+[08:01:48] [Server thread/WARN]: ReelablePenny14 moved too quickly! -9.465351229160433,0.0,4.086229891107223
+[08:01:56] [Server thread/INFO]: [Chance Cubes: Object successfully summoned]
+[08:02:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2277ms behind, skipping 45 tick(s)
+[08:02:55] [Server thread/WARN]: ReelablePenny14 moved too quickly! -3.154463068083743,0.0,13.534386249639738
+[08:02:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3410ms behind, skipping 68 tick(s)
+[08:03:19] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.241718700962167,0.0,13.710293293191228
+[08:14:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2572ms behind, skipping 51 tick(s)
+[08:15:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2080ms behind, skipping 41 tick(s)
+[08:17:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3172ms behind, skipping 63 tick(s)
+[08:18:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3349ms behind, skipping 66 tick(s)
+[08:18:27] [Server thread/WARN]: ReelablePenny14 moved too quickly! -13.35611314502006,0.0,-3.6487169042231926
+[08:18:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! -12.564562722339986,0.0,2.6437924023791766
+[08:18:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2841ms behind, skipping 56 tick(s)
+[08:19:56] [Server thread/WARN]: ReelablePenny14 moved too quickly! -11.934305028649874,0.053785034484675975,-4.932731016671227
+[08:19:59] [Server thread/WARN]: ReelablePenny14 moved too quickly! -7.883894680576418,0.7469999939203262,-11.234214306302249
+[08:21:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3231ms behind, skipping 64 tick(s)
+[08:21:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2476ms behind, skipping 49 tick(s)
+[08:22:10] [Server thread/WARN]: ReelablePenny14 moved too quickly! -10.601687109522004,0.0,9.013738290087872
+[08:22:25] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.5440649595828972,0.0,12.847511407602397
+[08:22:28] [Server thread/WARN]: ReelablePenny14 moved too quickly! -0.10741367130333401,-1.090007979154585,10.316387806650587
+[08:22:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4731ms behind, skipping 94 tick(s)
+[08:23:11] [Server thread/WARN]: ReelablePenny14 moved too quickly! -11.471248468942463,0.0,6.5309172617833156
+[08:23:25] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.17841433305466126,0.0,-13.525762827925519
+[08:23:40] [Server thread/WARN]: ReelablePenny14 moved too quickly! 8.31578237157862,0.0,-11.150321190730153
+[08:23:43] [Server thread/WARN]: ReelablePenny14 moved too quickly! 7.633506693880577,0.0,-10.760062531244728
+[08:23:50] [Server thread/WARN]: ReelablePenny14 moved too quickly! 8.393018019613578,0.0,-11.063978846851
+[08:26:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2977ms behind, skipping 59 tick(s)
+[08:31:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3026ms behind, skipping 60 tick(s)
+[08:31:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3247ms behind, skipping 64 tick(s)
+[08:46:40] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.AbstractMethodError
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_151]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:387) [ld.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.AbstractMethodError
+	at com.rwtema.extrautils2.crafting.Radar$PacketPing.lambda$doStuffServer$1(Radar.java:186) ~[Radar$PacketPing.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_151]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:45) ~[h.class:?]
+	... 5 more
+[08:52:45] [Server thread/WARN]: ReelablePenny14 moved too quickly! -7.161214617162191,0.0,-7.451927190514768
+[09:03:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! -12.435121067066888,0.0,2.9213780365762023
+[09:09:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3487ms behind, skipping 69 tick(s)
+[09:09:11] [Server thread/INFO]: Server Backup started!
+[09:09:18] [Thread-108/INFO]: Server backup done in 00:00:06! (48.9MB | 250.0MB)
+[09:09:25] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.347876120504381,0.0,20.18182407354965
+[09:09:26] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.200756507617214,0.0,18.91721640573985
+[09:09:27] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.2007565076172177,0.0,18.91721640573985
+[09:09:28] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.641630786976254,0.0,14.111095320208051
+[09:09:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.652428018461857,0.0,14.203905935053058
+[09:09:41] [Server thread/WARN]: ReelablePenny14 moved too quickly! -9.801566677078469,0.0,18.70717482828104
+[09:09:42] [Server thread/WARN]: ReelablePenny14 moved too quickly! -18.555737476420802,0.0,2.2881011793313064
+[09:09:44] [Server thread/WARN]: ReelablePenny14 moved too quickly! 4.93931288141502,0.0,20.167024812824366
+[09:09:46] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.4812374105856065,0.0,14.158825873030082
+[09:09:47] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.216414519362047,0.0,14.013146447084637
+[09:09:48] [Server thread/WARN]: ReelablePenny14 moved too quickly! -3.1745375179603457,0.0,19.444343446411494
+[09:09:50] [Server thread/WARN]: ReelablePenny14 moved too quickly! 2.044980088674322,0.0,14.01763156345146
+[09:09:52] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.7345120693478009,0.0,14.771448401296084
+[09:09:53] [Server thread/WARN]: ReelablePenny14 moved too quickly! 2.4210528431106013,0.0,21.088949268747456
+[09:09:55] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.6491555104524025,0.0,14.365220071579188
+[09:09:56] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.6306363303883131,0.0,14.203905935053172
+[09:09:58] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.6491555104524025,0.0,14.365220071579188
+[09:10:00] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.6403322360478967,0.0,14.288363596996078
+[09:10:01] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.619981489311229,0.0,14.111095320208278
+[09:10:02] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.6306363303883202,0.0,14.203905935053172
+[09:10:04] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.6644912443474311,0.0,14.498804315735924
+[09:10:06] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.630636330388322,0.0,14.203905935053172
+[09:10:07] [Server thread/WARN]: ReelablePenny14 moved too quickly! 1.7242133224379463,0.0,18.9555395367629
+[09:10:08] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7964578862056424,0.0,20.984390792320482
+[09:10:09] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.1639267844119487,0.0,21.7992986576196
+[09:10:09] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.2277803778815084,0.0,12.368602919565546
+[09:10:10] [Server thread/WARN]: ReelablePenny14 moved too quickly! -2.2402268937867085,0.0,22.567942441619834
+[09:10:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2584ms behind, skipping 51 tick(s)
+[09:10:11] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.313042145267893,0.0,19.33850885982656
+[09:10:13] [Server thread/WARN]: ReelablePenny14 moved too quickly! -0.013405805591773401,0.0,14.532372343309817
+[09:10:15] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.299698476515914
+[09:10:16] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.206261937737509
+[09:10:19] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,21.069423140136678
+[09:10:20] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.462100531476608
+[09:10:22] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,20.48169703833355
+[09:10:23] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.299698476515005
+[09:10:25] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.206261937736599
+[09:10:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2022ms behind, skipping 40 tick(s)
+[09:10:27] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.800175989060335
+[09:10:28] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.532511603527382
+[09:10:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,20.69634445293832
+[09:10:31] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.206261937736599
+[09:10:32] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,19.388764449920927
+[09:10:34] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.38472572925457
+[09:10:35] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,20.48169703833355
+[09:10:37] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.532511603527382
+[09:10:38] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.596585680940734
+[09:10:39] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,18.251437985227312
+[09:10:41] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.38472572925457
+[09:10:42] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.206261937736599
+[09:10:43] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,20.245820765346252
+[09:10:45] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.1994406179383077E-7,0.0,14.299698476515005
+[09:10:46] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,18.251437985227312
+[09:10:47] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,20.48169703833355
+[09:10:48] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,17.79498671168585
+[09:10:49] [Server thread/WARN]: ReelablePenny14 moved too quickly! -1.7991609269074615E-7,0.0,19.044795977528338
+[09:12:15] [Server thread/WARN]: ReelablePenny14 moved too quickly! 3.583632887091408,0.0,20.500689863882144
+[09:12:17] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.15838075819839115,0.0,14.382409752277454
+[09:12:18] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.12064239328337578,0.0,14.299192794673218
+[09:12:20] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.12135974346258083,0.0,14.38421704058328
+[09:12:21] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.16862126157082713,0.0,19.98590928827798
+[09:12:23] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.17912124476512048,0.0,21.230424420561576
+[09:12:24] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.1198540964058683,0.0,14.205759560101797
+[09:12:26] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.1198540964058683,0.0,14.205759560101797
+[09:12:27] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.16357736143091017,0.0,19.388078802867312
+[09:12:28] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.17912124476512048,0.0,21.230424420560666
+[09:12:30] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.1198540964058683,0.0,14.205759560101797
+[09:12:31] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.12260656986210883,0.0,14.531997688687625
+[09:12:33] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.1697875275872267,0.0,20.124141481494007
+[09:12:34] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.19315984036790113,0.0,22.89435514696015
+[09:12:35] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.12064239328337578,0.0,14.299192794673218
+[09:12:36] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.1198540964058683,0.0,14.205759560101797
+[09:12:38] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.16862126157082713,0.0,19.98590928827798
+[09:12:39] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.11985409640587363,0.0,14.205759560101797
+[09:12:40] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.17765697937869973,0.0,21.056871720775234
+[09:12:42] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.12314714420073969,0.0,14.596069500243175
+[09:12:43] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.12064239328337578,0.0,14.299192794673218
+[09:12:47] [Server thread/WARN]: ReelablePenny14 moved too quickly! 0.15013112261558703,0.0,17.794357425573253
+[09:12:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4739ms behind, skipping 94 tick(s)
+[09:13:11] [Server thread/WARN]: ReelablePenny14 moved too quickly! -10.72078763910075,0.0,13.90574208299222
+[09:13:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3640ms behind, skipping 72 tick(s)
+[09:13:23] [Server thread/WARN]: ReelablePenny14 moved too quickly! 11.27960937140735,0.0,17.273654592516323
+[09:14:08] [Server thread/WARN]: ReelablePenny14 moved too quickly! -7.912756400642337,0.0,10.434300787816028
+[09:14:09] [Server thread/INFO]: ReelablePenny14 was annihilated by a Chaos Guardian using dark energy
+[09:14:52] [Server thread/INFO]: ReelablePenny14 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[09:14:52] [Server thread/INFO]: ReelablePenny14 left the game
+[09:15:29] [Server thread/INFO]: Stopping the server
+[09:15:29] [Server thread/INFO]: Stopping server
+[09:15:29] [Server thread/INFO]: Saving players
+[09:15:29] [Server thread/INFO]: Saving worlds
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/fakeend
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/fakenether
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/fakeoverworld
+[09:15:29] [Server thread/INFO]: Saving chunks for level 'world'/Overworld

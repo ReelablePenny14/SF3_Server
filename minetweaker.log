@@ -132,34 +132,34 @@
 [SERVER_ABOUT_TO_START][SERVER][INFO] Setting localization for the key: entity.withercrumbs.Wither_Crumb.name to Wither Crumb
 [SERVER_ABOUT_TO_START][SERVER][INFO] Initialized 'localization'
 [SERVER_ABOUT_TO_START][SERVER][INFO] Initializing 'lore'...
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <darkutils:ender_hopper>: minetweaker.mc1102.formatting.FormattedMarkupString@272633da
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <funnels:funnel>: minetweaker.mc1102.formatting.FormattedMarkupString@5731fa74
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@46e0ddee
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@3a7c8e
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@782c20a3
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <exnihiloadscensio:blockSieve>: minetweaker.mc1102.formatting.FormattedMarkupString@7502cb1a
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@485a7705
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@75d88dcf
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@6c2c4b83
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@45a2c464
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@1310086e
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@18f1546b
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@67f36c46
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@27061fa8
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@35784bcf
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@256e6ddf
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@37b03952
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@453b5e74
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@3a7af4b8
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@5877bb1b
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@878c97b
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@2efa2bb2
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@548be9d9
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@67daa7f3
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@400947c5
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@7f9631a2
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@3487013
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@f88c7c6
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <darkutils:ender_hopper>: minetweaker.mc1102.formatting.FormattedMarkupString@10be66fe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <funnels:funnel>: minetweaker.mc1102.formatting.FormattedMarkupString@438dc3c6
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@51942966
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@5d2b031b
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@527f29bf
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <exnihiloadscensio:blockSieve>: minetweaker.mc1102.formatting.FormattedMarkupString@cee2b3a
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@2deebc0
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@3015baea
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@54dac55d
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@7b14a7e0
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@25473e75
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@41daac8d
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@55706a62
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@278a7195
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@7a217d4d
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@3dada40b
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@41c0e8ef
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@2363d139
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@43c553d
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@3f269b1b
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@71d029b4
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@731e776e
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@cc15c76
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@2a8025e5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@32284dd7
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@1f199e63
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@3fdd6076
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@3174a0c3
 [SERVER_ABOUT_TO_START][SERVER][INFO] Initialized 'lore'
 [SERVER_ABOUT_TO_START][SERVER][INFO] Initializing 'oredict'...
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding Lava Egg to ore dictionary entry listAlllava
@@ -509,10 +509,10 @@
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <actuallyadditions:itemShovelObsidian>
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <actuallyadditions:itemPickaxeObsidian>
 [SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <actuallyadditions:itemHelmObsidian>
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@d18fea90=300"
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@94b92d40=300"
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@3a622ec6=1973"
-[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@84743622=320"
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@d9978be5=300"
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@b319e082=300"
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@de2e6d9e=1973"
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@9dd26a38=320"
 [SERVER_ABOUT_TO_START][SERVER][INFO] Initialized 'tinkers'
 [SERVER_ABOUT_TO_START][SERVER][INFO] 
 [SERVER_ABOUT_TO_START][SERVER][INFO] 
@@ -543,10 +543,10 @@
 [SERVER_STOPPING][SERVER][INFO] tried to remove command: randomthings failed. THIS IS NOT AN ERROR!
 [SERVER_STOPPING][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
 [SERVER_STOPPING][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
-[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@84743622=320"
-[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@3a622ec6=1973"
-[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@94b92d40=300"
-[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@d18fea90=300"
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@9dd26a38=320"
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@de2e6d9e=1973"
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@b319e082=300"
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for "net.minecraftforge.fluids.FluidStack@d9978be5=300"
 [SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <actuallyadditions:itemHelmObsidian>
 [SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <actuallyadditions:itemPickaxeObsidian>
 [SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <actuallyadditions:itemShovelObsidian>
@@ -886,34 +886,34 @@
 [SERVER_STOPPING][SERVER][INFO] Removing Snad from ore dictionary entry sand
 [SERVER_STOPPING][SERVER][INFO] Removing Lava Bucket from ore dictionary entry listAlllava
 [SERVER_STOPPING][SERVER][INFO] Removing Lava Egg from ore dictionary entry listAlllava
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@f88c7c6
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@3487013
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@7f9631a2
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@400947c5
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@67daa7f3
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@548be9d9
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@2efa2bb2
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@878c97b
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@5877bb1b
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@3a7af4b8
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@453b5e74
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@37b03952
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@256e6ddf
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@35784bcf
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@27061fa8
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@67f36c46
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@18f1546b
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@1310086e
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@45a2c464
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@6c2c4b83
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@75d88dcf
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@485a7705
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <exnihiloadscensio:blockSieve>: minetweaker.mc1102.formatting.FormattedMarkupString@7502cb1a
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@782c20a3
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@3a7c8e
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@46e0ddee
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <funnels:funnel>: minetweaker.mc1102.formatting.FormattedMarkupString@5731fa74
-[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <darkutils:ender_hopper>: minetweaker.mc1102.formatting.FormattedMarkupString@272633da
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@3174a0c3
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_diamond>: minetweaker.mc1102.formatting.FormattedMarkupString@3fdd6076
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@1f199e63
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_gold>: minetweaker.mc1102.formatting.FormattedMarkupString@32284dd7
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@2a8025e5
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_iron>: minetweaker.mc1102.formatting.FormattedMarkupString@cc15c76
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@731e776e
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_stone>: minetweaker.mc1102.formatting.FormattedMarkupString@71d029b4
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@3f269b1b
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:compressed_hammer_wood>: minetweaker.mc1102.formatting.FormattedMarkupString@43c553d
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@2363d139
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve>: minetweaker.mc1102.formatting.FormattedMarkupString@41c0e8ef
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@3dada40b
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:1>: minetweaker.mc1102.formatting.FormattedMarkupString@7a217d4d
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@278a7195
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:2>: minetweaker.mc1102.formatting.FormattedMarkupString@55706a62
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@41daac8d
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:3>: minetweaker.mc1102.formatting.FormattedMarkupString@25473e75
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@7b14a7e0
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:4>: minetweaker.mc1102.formatting.FormattedMarkupString@54dac55d
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@3015baea
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <excompressum:heavy_sieve:5>: minetweaker.mc1102.formatting.FormattedMarkupString@2deebc0
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <exnihiloadscensio:blockSieve>: minetweaker.mc1102.formatting.FormattedMarkupString@cee2b3a
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@527f29bf
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@5d2b031b
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <torchmaster:mega_torch>: minetweaker.mc1102.formatting.FormattedMarkupString@51942966
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <funnels:funnel>: minetweaker.mc1102.formatting.FormattedMarkupString@438dc3c6
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <darkutils:ender_hopper>: minetweaker.mc1102.formatting.FormattedMarkupString@10be66fe
 [SERVER_STOPPING][SERVER][INFO] Setting localization for the key: entity.withercrumbs.Wither_Crumb.name to null
 [SERVER_STOPPING][SERVER][INFO] Setting localization for the key: entity.draconicevolution.GuardianCrystal.name to null
 [SERVER_STOPPING][SERVER][INFO] Removing 1 Actually Additions Crusher Recipe(s) for <minecraft:sand>
